@@ -1,4 +1,4 @@
 This agent provides answers to employees questions regarding HR policies.
 Agent name: HR Self-Service Agent
-Here is a starter prompt: " What are Contoso's company values?"
+Here is a starter prompt: "What are Contoso's company values?"
 The agent should use SharePoint and all websites as it's knowledge sources.
